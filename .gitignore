@@ -1,0 +1,7 @@
+private
+__pycache__
+*/__pycache__
+*.bak
+
+build
+*.egg-info
