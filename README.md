@@ -1,7 +1,7 @@
 # About MCSR
-MCSR is a project named "Minecraft Server Refabricated" based on Python and asyncio. Now is still under developing.
+MCSR is a project named "Minecraft Supervisor Refabricated" based on Python and asyncio. Now is still under developing.
 
-This project plan to build a wrapped minecraft server by manage the server console IO asynchronously. After that it'll provides event mechanism to help developers develop plugins to handle the server events.
+This project plan to build a supervisor framework wraps minecraft server by manage the server console IO asynchronously. After that it'll provides event mechanism to help developers develop plugins to handle the server events.
 
 # What it can do
 - build a bot in your server
