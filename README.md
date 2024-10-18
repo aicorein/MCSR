@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Now we recommend you to use [melobot](https://github.com/Meloland/melobot) instead of MCSR.
+> 
+> It provides more advanced and practical features.
+
 # About MCSR
 MCSR is a project named "Minecraft Supervisor Refabricated" based on Python and asyncio. Now is still under developing.
 
